@@ -14,6 +14,7 @@ Welcome to my corner of GitHub! I'm an Automated Tester dedicated to building im
 
 🛠️ Technologies & Tools
 
+<!-- Adding technology badges/logos here -->
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Playwright-447a25%3Fstyle%3Dfor-the-badge%26logo%3Dplaywright%26logoColor%3Dwhite" alt="Playwright Badge"/>
