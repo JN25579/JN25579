@@ -14,14 +14,13 @@ Welcome to my corner of GitHub! I'm an Automated Tester dedicated to building im
 
 🛠️ Technologies & Tools
 
-<!-- Adding technology badges/logos here -->
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Playwright-447a25%3Fstyle%3Dfor-the-badge%26logo%3Dplaywright%26logoColor%3Dwhite" alt="Playwright Badge"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub%2520Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithubactions%26logoColor%3Dwhite" alt="GitHub Actions Badge"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" alt="Jira Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CI%252FCD-F47214%3Fstyle%3Dfor-the-badge%26logo%3Djenkins%26logoColor%3Dwhite" alt="CI/CD Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CI/CD-F47214%3Fstyle%3Dfor-the-badge%26logo%3Djenkins%26logoColor%3Dwhite" alt="CI/CD Badge"/>
 </p>
 
 🔥 My GitHub Stats
