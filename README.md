@@ -14,32 +14,6 @@ Welcome to my corner of GitHub! I'm an Automated Tester dedicated to building im
 
 🛠️ Technologies & Tools
 
-I primarily work with the following languages, frameworks, and tools. Click on the badges to explore the official documentation!
-
-Category
-
-Skills & Badges
-
-Core Languages
-
-
-
-Testing
-
-
-
-Backend
-
-
-
-Cloud/DevOps
-
-
-
-Database
-
-
-
 🔥 My GitHub Stats
 
 Here are some details about my GitHub activity!
